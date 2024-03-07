@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "546645131a44f196",
+    "type": "split",
+    "children": [
+      {
+        "id": "c90aae81317a5493",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2974a5a79017e85",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6e28b88762d2e1b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f723537eafacfab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20299633ccf8d6af",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a8d1519ab9ece531",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4ad0a79435559581",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "65f9ad77f3f9dfc0",
+    "type": "split",
+    "children": [
+      {
+        "id": "73e652974463cbdd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52ff398f8a509827",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8aee9ef104c0b45f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7c6d81d729b4afd7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "712ab6c64ee6c212",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
+    }
+  },
+  "active": "e2974a5a79017e85",
+  "lastOpenFiles": [
+    "对接文档/背包.md",
+    "对接文档/查看他人.md",
+    "对接文档/对接内容.md",
+    "对接文档/飘字.md",
+    "对接文档/怪物巡逻.md",
+    "对接文档/全局配置特效.md",
+    "对接文档/闪电链.md",
+    "对接文档/网络消息生成器.md",
+    "对接文档/足迹.md",
+    "对接文档/副本剧情.md",
+    "Excalidraw/Drawing 2024-03-06 15.11.41.excalidraw.md",
+    "Excalidraw/Drawing 2024-02-05 17.41.57.excalidraw.md",
+    "Excalidraw/Drawing 2024-02-05 17.41.54.excalidraw.md",
+    "Excalidraw/Drawing 2024-02-05 17.28.58.excalidraw.md",
+    "Excalidraw/Drawing 2024-01-18 17.03.09.excalidraw.md",
+    "Excalidraw/Drawing 2024-02-05 17.41.52.excalidraw.md",
+    "Welcome.md",
+    "Excalidraw/Drawing 2024-03-07 10.36.54.excalidraw.md",
+    "Excalidraw",
+    "新建文件夹",
+    "Picture/Pasted image 20240307135614.png",
+    "Picture/Pasted image 20240307110627.png",
+    "Picture/Pasted image 20240307103353.png",
+    "Picture/Pasted image 20240307103114.png",
+    "Picture/Pasted image 20240307103112.png",
+    "Picture/Pasted image 20240307140700.png",
+    "Picture/Pasted image 20240306205514.png",
+    "Picture/Pasted image 20240306205255.png",
+    "Picture/Pasted image 20240306204853.png",
+    "Picture/Pasted image 20240306202532.png",
+    "Picture",
+    "对接文档"
+  ]
+}
