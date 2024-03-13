@@ -6,6 +6,7 @@
       {
         "id": "c90aae81317a5493",
         "type": "tabs",
+        "dimension": 73.15989847715736,
         "children": [
           {
             "id": "e2974a5a79017e85",
@@ -18,6 +19,63 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "71b4017de610a2f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "对接文档/最新版本对应SVN.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "dbcf11fab3e46197"
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "4a084848b3849328",
+        "type": "tabs",
+        "dimension": 26.84010152284264,
+        "children": [
+          {
+            "id": "ab0ea419eb07cd55",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "对接文档/最新版本对应SVN.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.3628873693012118,
+                  "close": false
+                }
+              }
+            },
+            "group": "dbcf11fab3e46197"
           }
         ]
       }
@@ -85,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "对接文档/飘字.md",
+                "file": "对接文档/最新版本对应SVN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "对接文档/飘字.md",
+                "file": "对接文档/最新版本对应SVN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "对接文档/飘字.md"
+                "file": "对接文档/最新版本对应SVN.md"
               }
             }
           }
@@ -147,8 +205,27 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "e2974a5a79017e85",
+  "active": "71b4017de610a2f1",
   "lastOpenFiles": [
+    "3edfb4ff3def5b22617c0b88a16d7924.png",
+    "Pasted image 20240313144217.png",
+    "Pasted image 20240313143852.png",
+    "Pasted image 20240313143828.png",
+    "Pasted image 20240313143752.png",
+    "Pasted image 20240313143606.png",
+    "Pasted image 20240313143447.png",
+    "Pasted image 20240313143328.png",
+    "Pasted image 20240313143134.png",
+    "Pasted image 20240313143031.png",
+    "Pasted image 20240313142921.png",
+    "Excalidraw/Drawing 2024-03-07 10.36.54.excalidraw.md",
+    "对接文档/最新版本对应SVN.md",
+    "Excalidraw/Drawing 2024-03-06 15.11.41.excalidraw.md",
+    "Excalidraw/Drawing 2024-02-05 17.41.57.excalidraw.md",
+    "Excalidraw/Drawing 2024-02-05 17.41.52.excalidraw.md",
+    "Excalidraw/Drawing 2024-02-05 17.28.58.excalidraw.md",
+    "Excalidraw/Drawing 2024-03-07 15.19.42.excalidraw.md",
+    "对接文档/飘字.md",
     "README.md",
     "对接文档/全局配置特效.md",
     "对接文档/闪电链.md",
@@ -159,27 +236,11 @@
     "对接文档/背包.md",
     "对接文档/查看他人.md",
     "对接文档/对接内容.md",
-    "对接文档/飘字.md",
     "Excalidraw/Drawing 2024-02-05 17.41.54.excalidraw.md",
     "Excalidraw/Drawing 2024-01-18 17.03.09.excalidraw.md",
-    "Excalidraw/Drawing 2024-02-05 17.28.58.excalidraw.md",
-    "Excalidraw/Drawing 2024-03-06 15.11.41.excalidraw.md",
-    "Excalidraw/Drawing 2024-02-05 17.41.57.excalidraw.md",
-    "Excalidraw/Drawing 2024-02-05 17.41.52.excalidraw.md",
     "Welcome.md",
-    "Excalidraw/Drawing 2024-03-07 10.36.54.excalidraw.md",
     "Excalidraw",
     "新建文件夹",
-    "Picture/Pasted image 20240307135614.png",
-    "Picture/Pasted image 20240307110627.png",
-    "Picture/Pasted image 20240307103353.png",
-    "Picture/Pasted image 20240307103114.png",
-    "Picture/Pasted image 20240307103112.png",
-    "Picture/Pasted image 20240307140700.png",
-    "Picture/Pasted image 20240306205514.png",
-    "Picture/Pasted image 20240306205255.png",
-    "Picture/Pasted image 20240306204853.png",
-    "Picture/Pasted image 20240306202532.png",
     "Picture",
     "对接文档"
   ]
